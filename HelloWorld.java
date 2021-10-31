@@ -5,5 +5,6 @@ public class HelloWorld {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Enter your name below : ");
     System.out.println("Hello : "+ scanner.nextLine());
+    System.out.println("Simulating a git training...")
   }
 }
